@@ -6,3 +6,6 @@
 - Efficient-Nets
 - ConvNeXt
 - Swim Transformer
+-  DeiT
+-  CoAtNet
+
